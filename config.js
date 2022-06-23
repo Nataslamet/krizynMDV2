@@ -10,7 +10,7 @@ global.mods = ['628991544516']
 global.prems = ['628991544516'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ArullOfc ✰'
+global.nameowner = 'Nata ✰'
 global.numberowner = '628991544516'
 global.instagram = 'https://instagram.com/nata.slamet'
 global.github = 'https://github.com/Nataslamet'
